@@ -44,7 +44,11 @@ I am growing a creator-first developer brand around full-stack products, backend
   </tr>
 </table>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-anime.gif" alt="Banner GIF" width="100%" />
+<img src="Mizznina's #QueenOfTheDeen Project.gif" alt="Mizznina Queen" width="100%" />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%" />
+</p>
 
 ---
 
@@ -134,12 +138,9 @@ I am growing a creator-first developer brand around full-stack products, backend
     <td width="72%" valign="top">
       <ul>
         <li>Active open-source contributor with community collaborations.</li>
-        <li><code>1,448+</code> total contributions on GitHub.</li>
-        <li><code>584+</code> commits in the last year.</li>
-        <li><code>36</code> repositories created.</li>
-        <li><code>20+</code> stars earned on repositories.</li>
-        <li>Longest contribution streak: <code>38 days</code>.</li>
         <li>Consistent build-in-public creator journey.</li>
+        <li>Passionate about MERN stack, cloud technologies, and cybersecurity.</li>
+        <li>Regular contributor with <strong>daily coding streaks</strong> and growing impact.</li>
       </ul>
     </td>
     <td width="28%" align="center" valign="top">
@@ -241,25 +242,10 @@ I am growing a creator-first developer brand around full-stack products, backend
 </p>
 
 > 📊 **GitHub Metrics:** Comprehensive stats about your profile, repositories, and coding habits. Updates daily at 2 AM UTC.
-> 
+>
 > 🌙 **Moon Phase:** Shows the current moon phase. Updates every 12 hours.
-> 
+>
 > **Workflows:** `metrics.yml` + `moon.yml`
-
-<h3 align="center">Repography + Repo Analytics</h3>
-
-<p align="center">
-  <a href="https://repography.com/janvi100104/janvi100104">
-    <img src="https://img.shields.io/badge/Repography-Open%20Project%20Map-C7D9C8?style=for-the-badge&labelColor=7D8CA3" alt="Repography" />
-  </a>
-  <a href="https://github.com/Ashutosh00710/github-profile-repo-analytics">
-    <img src="https://img.shields.io/badge/GitHub%20Profile%20Repo%20Analytics-Enabled-E8AEB7?style=for-the-badge&labelColor=7D8CA3" alt="GitHub Profile Repo Analytics" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-repo-analytics.vercel.app/api/badge?username=janvi100104" alt="GitHub Profile Repo Analytics Badge" />
-</p>
 
 ---
 
