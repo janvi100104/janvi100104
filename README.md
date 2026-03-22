@@ -139,7 +139,7 @@ I am growing a creator-first developer brand around full-stack products, backend
 <table align="center">
   <tr>
     <td align="center" valign="middle" style="padding-left: 12px;">
-      <img src="assets/Dance 跳舞 Sticker.gif" alt="Anime cat" width="220" style="transform: scaleX(-1);" />
+      <img src="assets/Flower Manga Sticker.gif" alt="Anime cat" width="220" style="transform: scaleX(-1);" />
     </td>
     <td align="center" valign="middle" style="padding-right: 12px;">
       <img src="https://count.getloli.com/@janvi100104.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="janvi100104 profile counter" />
@@ -217,11 +217,11 @@ I am growing a creator-first developer brand around full-stack products, backend
 <!-- MOON PHASE DIVIDER -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle" style="padding-right: 12px; width:50%;">
-      <img src="assets/Hello Kitty Hearts Sticker.gif" style="width:100%; height:auto; max-height:500px;" />
-    </td>
     <td align="center" valign="middle" style="padding-left: 12px; width:50%;">
       <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; height:auto; max-height:500px;" />
+    </td>
+    <td align="center" valign="middle" style="padding-right: 12px; width:50%;">
+      <img src="assets/Girl Horse Sticker.gif" style="width:100%; height:auto; max-height:500px;" />
     </td>
   </tr>
 </table>
