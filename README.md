@@ -238,13 +238,13 @@ I am growing a creator-first developer brand around full-stack products, backend
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon SVG" width="100%" />
+  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; max-width:300px; height:auto;" />
 </p>
 
 > 📊 **GitHub Metrics:** Comprehensive stats about your profile, repositories, and coding habits. Updates daily at 2 AM UTC.
->
+> 
 > 🌙 **Moon Phase:** Shows the current moon phase. Updates every 12 hours.
->
+> 
 > **Workflows:** `metrics.yml` + `moon.yml`
 
 ---
