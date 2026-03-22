@@ -1,13 +1,13 @@
 <h1 align="center">Janvi Singhal | MERN Developer + Solo Builder</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=7D8CA3&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;MERN+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=088395&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;MERN+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-1%2C200%2B%20hrs-7D8CA3?style=for-the-badge&labelColor=F6F1E9&logoColor=5C6B73" alt="Code Time" />
-  <img src="https://img.shields.io/badge/Projects-20%2B-E8AEB7?style=for-the-badge&labelColor=F6F1E9&logoColor=5C6B73" alt="Projects" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-C7D9C8?style=for-the-badge&labelColor=F6F1E9&logoColor=5C6B73" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Code%20Time-1%2C200%2B%20hrs-088395?style=for-the-badge&labelColor=EBF4F6&logoColor=09637E" alt="Code Time" />
+  <img src="https://img.shields.io/badge/Projects-20%2B-7AB2B2?style=for-the-badge&labelColor=EBF4F6&logoColor=09637E" alt="Projects" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-09637E?style=for-the-badge&labelColor=EBF4F6&logoColor=088395" alt="Open Source" />
 </p>
 
 <p align="center">
@@ -144,7 +144,7 @@ I am growing a creator-first developer brand around full-stack products, backend
       </ul>
     </td>
     <td width="28%" align="center" valign="top">
-      <img src="Studying%20Cute%20Girl%20Sticker.gif" alt="Studying Cute Girl" width="200" />
+      <img src="./assets/Studying Cute Girl Sticker.gif" alt="Studying Cute Girl" width="200" />
     </td>
   </tr>
 </table>
@@ -154,11 +154,11 @@ I am growing a creator-first developer brand around full-stack products, backend
 <div align="center">
   <h2>🌟 Open Source Contributions 🌟</h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvi100104&bg_color=F6F1E9&color=7D8CA3&line=E8AEB7&point=C7D9C8&area=true&area_color=C7D9C8&hide_border=true" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvi100104&bg_color=EBF4F6&color=088395&line=7AB2B2&point=09637E&area=true&area_color=7AB2B2&hide_border=true" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
 
   <table align="center">
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=janvi100104&show_icons=true&bg_color=F6F1E9&title_color=7D8CA3&text_color=5C6B73&icon_color=E8AEB7&border_color=C7D9C8" alt="GitHub Stats" style="width:100%; max-width:430px; height:auto;" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=janvi100104&show_icons=true&bg_color=EBF4F6&title_color=088395&text_color=09637E&icon_color=7AB2B2&border_color=7AB2B2" alt="GitHub Stats" style="width:100%; max-width:430px; height:auto;" /></td>
       <td align="center"><img src="https://leetcard.jacoblin.cool/janvi_10?theme=light&font=Karma&ext=contest" alt="LeetCode Contest Stats" style="width:100%; max-width:430px; height:auto;" /></td>
     </tr>
   </table>
@@ -176,7 +176,7 @@ I am growing a creator-first developer brand around full-stack products, backend
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=janvi100104&hide_border=true&background=F6F1E9&ring=7D8CA3&fire=E8AEB7&currStreakLabel=7D8CA3&currStreakNum=5C6B73&sideLabels=7D8CA3&sideNums=5C6B73&dates=C7D9C8" alt="GitHub Streak" style="width:100%; max-width:1000px; height:auto;" />
+      <img src="https://streak-stats.demolab.com?user=janvi100104&hide_border=true&background=EBF4F6&ring=088395&fire=7AB2B2&currStreakLabel=088395&currStreakNum=09637E&sideLabels=088395&sideNums=09637E&dates=09637E" alt="GitHub Streak" style="width:100%; max-width:1000px; height:auto;" />
     </td>
   </tr>
   <tr>
@@ -199,57 +199,33 @@ I am growing a creator-first developer brand around full-stack products, backend
 
 ---
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7D8CA3/janvi100104" alt="GitHub Contribution Heatmap" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib" style="width:100%; max-width:490px; height:auto;" />
+</p>
 
 ---
 
-<h3 align="center">Recent GitHub Activity</h3>
-
-<!--START_SECTION:activity-->
-- 🌸 Activity updates will appear here after enabling the GitHub Activity Readme workflow.
-<!--END_SECTION:activity-->
-
-<h3 align="center">Contribution Snake</h3>
+<div align="center">
+  <img src="https://ghchart.rshah.org/088395/janvi100104" alt="GitHub Contribution Heatmap" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/output/snake.svg" alt="Snake Game From Contribution Grid" />
 </p>
 
-> 🐍 The snake animation eats your contribution squares from the GitHub contribution graph.
-> 
-> **Updates:** Daily at midnight UTC | **Workflow:** `snake.yml`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="width:100%; max-width:1000px; height:auto;" />
+</div>
 
-<h3 align="center">3D Contribution Profile</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib" />
-</p>
-
-> 🌐 3D visualization of your GitHub contribution graph.
-> 
-> **Updates:** Weekly on Sundays | **Workflow:** `profile-3d.yml`
-
-<h3 align="center">Metrics + Moon</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; max-width:200px; height:auto;" />
 </p>
 
-> 📊 **GitHub Metrics:** Comprehensive stats about your profile, repositories, and coding habits. Updates daily at 2 AM UTC.
-> 
-> 🌙 **Moon Phase:** Shows the current moon phase. Updates every 12 hours.
-> 
-> **Workflows:** `metrics.yml` + `moon.yml`
-
 ---
 
 <div align="center">
-  <a href="https://buymeacoffee.com/janvi100104"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-E8AEB7?style=for-the-badge&labelColor=7D8CA3&logo=buy-me-a-coffee&logoColor=F6F1E9" alt="Buy Me A Coffee" /></a>
+  <a href="https://buymeacoffee.com/janvi100104"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-7AB2B2?style=for-the-badge&labelColor=088395&logo=buy-me-a-coffee&logoColor=EBF4F6" alt="Buy Me A Coffee" /></a>
 </div>
 
