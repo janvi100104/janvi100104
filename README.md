@@ -93,15 +93,17 @@ I am growing a creator-first developer brand around full-stack products, backend
         <tr>
           <td align="center" width="110"><a href="https://github.com/janvi100104"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></a></td>
           <td align="center" width="110"><a href="https://www.linkedin.com/in/janvi-singhal-61299a207/"><img src="https://skillicons.dev/icons?i=linkedin" width="62" height="62" alt="LinkedIn" /><br/><sub>LinkedIn</sub></a></td>
-          <td align="center" width="110"><a href="https://x.com/janvi_sing29143"><img src="https://cdn.simpleicons.org/x/000000" width="62" height="62" alt="X (Twitter)" /><br/><sub>X (Twitter)</sub></a></td>
+          <td align="center" width="110"><a href="https://janvisinghal.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="62" height="62" alt="Portfolio" /><br/><sub>Portfolio</sub></a></td>
         </tr>
         <tr>
+          <td align="center" width="110"><a href="https://x.com/janvi_sing29143"><img src="https://cdn.simpleicons.org/x/000000" width="62" height="62" alt="X (Twitter)" /><br/><sub>X (Twitter)</sub></a></td>
           <td align="center" width="110"><a href="https://app.daily.dev/janvi100104"><img src="https://cdn.simpleicons.org/dailydotdev/CE09DA" width="62" height="62" alt="Daily.dev" /><br/><sub>Daily.dev</sub></a></td>
           <td align="center" width="110"><a href="https://stackoverflow.com/users/27863308/janvi-singhal"><img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="62" height="62" alt="Stack Overflow" /><br/><sub>Stack Overflow</sub></a></td>
-          <td align="center" width="110"><a href="https://dev.to/janvi_singhal_3b62461ab4e"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="62" height="62" alt="DEV.to" /><br/><sub>DEV.to</sub></a></td>
         </tr>
         <tr>
+          <td align="center" width="110"><a href="https://dev.to/janvi_singhal_3b62461ab4e"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="62" height="62" alt="DEV.to" /><br/><sub>DEV.to</sub></a></td>
           <td align="center" width="110"><a href="https://medium.com/@janvisinghal10"><img src="https://cdn.simpleicons.org/medium/12100E" width="62" height="62" alt="Medium" /><br/><sub>Medium</sub></a></td>
+          <td align="center" width="110"><a href="https://dribbble.com/janvisinghal10"><img src="https://cdn.simpleicons.org/dribbble/EA4C88" width="62" height="62" alt="Dribbble" /><br/><sub>Dribbble</sub></a></td>
         </tr>
       </table>
     </td>
@@ -201,17 +203,6 @@ I am growing a creator-first developer brand around full-stack products, backend
 </div>
 
 ---
-
-<h2 align="center">🌙 Advanced Profile Widgets 🌙</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Activity%20Generator-Enabled-7D8CA3?style=for-the-badge&labelColor=F6F1E9" alt="Profile Activity Generator" />
-  <img src="https://img.shields.io/badge/GitHub%20Activity%20Readme-Enabled-E8AEB7?style=for-the-badge&labelColor=F6F1E9" alt="GitHub Activity Readme" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvi100104&bg_color=F6F1E9&color=7D8CA3&line=E8AEB7&point=C7D9C8&area=true&area_color=C7D9C8&hide_border=true" alt="Profile Activity Generator Graph" />
-</p>
 
 <h3 align="center">Recent GitHub Activity</h3>
 
