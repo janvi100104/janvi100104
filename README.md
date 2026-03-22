@@ -217,10 +217,10 @@ I am growing a creator-first developer brand around full-stack products, backend
 <!-- MOON PHASE DIVIDER -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle" style="padding-left: 12px; width:50%;">
+    <td align="center" valign="middle" style="padding-left: 12px; width:65%;">
       <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; height:auto; max-height:500px;" />
     </td>
-    <td align="center" valign="middle" style="padding-right: 12px; width:50%;">
+    <td align="center" valign="middle" style="padding-right: 12px; width:35%;">
       <img src="assets/chibi GIF by imoji.gif" style="width:100%; height:auto; max-height:500px;" />
     </td>
   </tr>
