@@ -58,28 +58,28 @@ I am growing a creator-first developer brand around full-stack products, backend
 
 <table align="center" cellpadding="10" cellspacing="8">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="62" height="62" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="62" height="62" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="62" height="62" alt="React" /><br/><sub>React</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="62" height="62" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="62" height="62" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgresql" width="62" height="62" alt="SQL" /><br/><sub>SQL</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="62" height="62" alt="React.js" /><br/><sub>React.js</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="62" height="62" alt="Next.js" /><br/><sub>Next.js</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="62" height="62" alt="Express" /><br/><sub>Express</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="62" height="62" alt="Node.js" /><br/><sub>Node.js</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="62" height="62" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="62" height="62" alt="Tailwind CSS" /><br/><sub>Tailwind CSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="62" height="62" alt="Redux" /><br/><sub>Redux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="62" height="62" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="62" height="62" alt="GraphQL" /><br/><sub>GraphQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="62" height="62" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="62" height="62" alt="MySQL" /><br/><sub>MySQL</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="62" height="62" alt="Python" /><br/><sub>Python</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="62" height="62" alt="Java" /><br/><sub>Java</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="62" height="62" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="62" height="62" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="62" height="62" alt="Linux" /><br/><sub>Linux</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="62" height="62" alt="Git" /><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="62" height="62" alt="VS Code" /><br/><sub>VS Code</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="62" height="62" alt="Redis" /><br/><sub>Redis</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="62" height="62" alt="Prisma" /><br/><sub>Prisma ORM</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="62" height="62" alt="Supabase" /><br/><sub>Supabase</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="62" height="62" alt="AWS" /><br/><sub>AWS</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="62" height="62" alt="Figma" /><br/><sub>Figma</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="62" height="62" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="62" height="62" alt="CI/CD" /><br/><sub>CI/CD</sub></td>
   </tr>
 </table>
 
@@ -238,7 +238,7 @@ I am growing a creator-first developer brand around full-stack products, backend
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; max-width:300px; height:auto;" />
+  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; max-width:200px; height:auto;" />
 </p>
 
 > 📊 **GitHub Metrics:** Comprehensive stats about your profile, repositories, and coding habits. Updates daily at 2 AM UTC.
