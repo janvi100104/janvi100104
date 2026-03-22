@@ -1,0 +1,26 @@
+name: Generate Moon SVG
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  moon-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch moon.svg
+        run: |
+          curl -fsSL "https://moon-svg.minung.dev/moon.svg?theme=ray" -o moon.svg
+
+      - name: Commit moon.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): update moon svg"
+          file_pattern: moon.svg
