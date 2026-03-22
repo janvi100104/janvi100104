@@ -221,7 +221,7 @@ I am growing a creator-first developer brand around full-stack products, backend
       <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/moon.svg" alt="Moon Phase" style="width:100%; height:auto; max-height:500px;" />
     </td>
     <td align="center" valign="middle" style="padding-right: 12px; width:50%;">
-      <img src="assets/Girl Horse Sticker.gif" style="width:100%; height:auto; max-height:500px;" />
+      <img src="assets/chibi GIF by imoji.gif" style="width:100%; height:auto; max-height:500px;" />
     </td>
   </tr>
 </table>
