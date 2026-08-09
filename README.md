@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://holopin.io/@janvi100104">
-    <img src="https://holopin.me/janvi100104" alt="Holopin badges" />
+  <a href="https://holopin.io/@janvibuilds">
+    <img src="https://holopin.me/janvibuilds" alt="Holopin badges" />
   </a>
 </p>
 
@@ -116,13 +116,13 @@ I am growing a creator-first developer brand around full-stack products, backend
     <td valign="top">
       <table align="center" cellpadding="10" cellspacing="8">
         <tr>
-          <td align="center" width="110"><a href="https://github.com/janvi100104"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></a></td>
+          <td align="center" width="110"><a href="https://github.com/janvibuilds"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></a></td>
           <td align="center" width="110"><a href="https://www.linkedin.com/in/janvi-singhal-61299a207/"><img src="https://skillicons.dev/icons?i=linkedin" width="62" height="62" alt="LinkedIn" /><br/><sub>LinkedIn</sub></a></td>
           <td align="center" width="110"><a href="https://janvisinghal.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="62" height="62" alt="Portfolio" /><br/><sub>Portfolio</sub></a></td>
           <td align="center" width="110"><a href="https://x.com/janvi_sing29143"><img src="https://cdn.simpleicons.org/x/000000" width="62" height="62" alt="X (Twitter)" /><br/><sub>X (Twitter)</sub></a></td>
         </tr>
         <tr>
-          <td align="center" width="110"><a href="https://app.daily.dev/janvi100104"><img src="https://cdn.simpleicons.org/dailydotdev/CE09DA" width="62" height="62" alt="Daily.dev" /><br/><sub>Daily.dev</sub></a></td>
+          <td align="center" width="110"><a href="https://app.daily.dev/janvibuilds"><img src="https://cdn.simpleicons.org/dailydotdev/CE09DA" width="62" height="62" alt="Daily.dev" /><br/><sub>Daily.dev</sub></a></td>
           <td align="center" width="110"><a href="https://stackoverflow.com/users/27863308/janvi-singhal"><img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="62" height="62" alt="Stack Overflow" /><br/><sub>Stack Overflow</sub></a></td>
           <td align="center" width="110"><a href="https://dev.to/janvi_singhal_3b62461ab4e"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="62" height="62" alt="DEV.to" /><br/><sub>DEV.to</sub></a></td>
           <td align="center" width="110"><a href="https://medium.com/@janvisinghal10"><img src="https://cdn.simpleicons.org/medium/12100E" width="62" height="62" alt="Medium" /><br/><sub>Medium</sub></a></td>
@@ -142,7 +142,7 @@ I am growing a creator-first developer brand around full-stack products, backend
       <img src="assets/Flower Manga Sticker.gif" alt="Anime cat" width="220" style="transform: scaleX(-1);" />
     </td>
     <td align="center" valign="middle" style="padding-right: 12px;">
-      <img src="https://count.getloli.com/@janvi100104.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="janvi100104 profile counter" />
+      <img src="https://count.getloli.com/@janvibuilds.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="janvibuilds profile counter" />
     </td>
   </tr>
 </table>
@@ -152,13 +152,13 @@ I am growing a creator-first developer brand around full-stack products, backend
 <div align="center">
   <h2>🌟 Open Source Contributions 🌟</h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvi100104&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvibuilds&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
 
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib" style="width:100%; max-width:1000px; height:auto;" />
+  <img src="https://raw.githubusercontent.com/janvibuilds/janvibuilds/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib" style="width:100%; max-width:1000px; height:auto;" />
 
   <table align="center">
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=janvi100104&show_icons=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_color=bb9af7" alt="GitHub Stats" style="width:100%; max-width:490px; height:auto;" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=janvibuilds&show_icons=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_color=bb9af7" alt="GitHub Stats" style="width:100%; max-width:490px; height:auto;" /></td>
       <td align="center"><img src="https://leetcard.jacoblin.cool/janvi_10?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Stats" style="width:100%; max-width:490px; height:auto;" /></td>
     </tr>
   </table>
@@ -171,28 +171,28 @@ I am growing a creator-first developer brand around full-stack products, backend
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janvi100104&theme=tokyonight" alt="Profile Details" style="width:100%; max-width:1000px; height:auto;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janvibuilds&theme=tokyonight" alt="Profile Details" style="width:100%; max-width:1000px; height:auto;" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=janvi100104&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&currStreakNum=bb9af7&sideLabels=7aa2f7&sideNums=bb9af7&dates=7aa2f7" alt="GitHub Streak" style="width:100%; max-width:1000px; height:auto;" />
+      <img src="https://streak-stats.demolab.com?user=janvibuilds&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&currStreakNum=bb9af7&sideLabels=7aa2f7&sideNums=bb9af7&dates=7aa2f7" alt="GitHub Streak" style="width:100%; max-width:1000px; height:auto;" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janvi100104&theme=tokyonight" alt="Profile Stats Summary" style="width:100%; max-width:490px; height:auto;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janvibuilds&theme=tokyonight" alt="Profile Stats Summary" style="width:100%; max-width:490px; height:auto;" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janvi100104&theme=tokyonight&utcOffset=5.5" alt="Productive Time" style="width:100%; max-width:490px; height:auto;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janvibuilds&theme=tokyonight&utcOffset=5.5" alt="Productive Time" style="width:100%; max-width:490px; height:auto;" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janvi100104&theme=tokyonight" alt="Repos Per Language" style="width:100%; max-width:490px; height:auto;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janvibuilds&theme=tokyonight" alt="Repos Per Language" style="width:100%; max-width:490px; height:auto;" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janvi100104&theme=tokyonight" alt="Most Commit Language" style="width:100%; max-width:490px; height:auto;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janvibuilds&theme=tokyonight" alt="Most Commit Language" style="width:100%; max-width:490px; height:auto;" />
     </td>
   </tr>
 </table>
@@ -201,15 +201,15 @@ I am growing a creator-first developer brand around full-stack products, backend
 
 <!-- Contribution heatmaps and fun visualizations from my GitHub activity. -->
 <div align="center">
-      <img src="https://ghchart.rshah.org/7aa2f7/janvi100104" alt="GitHub Contribution Heatmap" />
+      <img src="https://ghchart.rshah.org/7aa2f7/janvibuilds" alt="GitHub Contribution Heatmap" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/output/snake.svg" alt="Snake Game From Contribution Grid" />
+  <img src="https://raw.githubusercontent.com/janvibuilds/janvibuilds/output/snake.svg" alt="Snake Game From Contribution Grid" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/janvi100104/janvi100104/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="width:100%; max-width:1000px; height:auto;" />
+  <img src="https://raw.githubusercontent.com/janvibuilds/janvibuilds/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="width:100%; max-width:1000px; height:auto;" />
 </div>
 
 <!-- Cherry blossom divider -->
@@ -217,9 +217,9 @@ I am growing a creator-first developer brand around full-stack products, backend
 
 <!-- SUPPORT MY WORK -->
 <div align="center">
-  <a href="https://buymeacoffee.com/janvi100104"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-F4A460?style=for-the-badge&labelColor=8B6914&logo=buy-me-a-coffee&logoColor=FFFACD" alt="Buy Me A Coffee" /></a>
-  <a href="https://ko-fi.com/janvi100104"><img src="https://img.shields.io/badge/Ko--fi-4CAF50?style=for-the-badge&labelColor=2E7D32&logo=ko-fi&logoColor=E8F5E9" alt="Ko-fi" /></a>
-  <a href="https://github.com/sponsors/janvi100104"><img src="https://img.shields.io/badge/GitHub%20Sponsors-4169E1?style=for-the-badge&labelColor=1E3A8A&logo=github-sponsors&logoColor=E0F2FE" alt="GitHub Sponsors" /></a>
-  <a href="https://www.patreon.com/janvi100104"><img src="https://img.shields.io/badge/Patreon-9932CC?style=for-the-badge&labelColor=4B0082&logo=patreon&logoColor=F3E5F5" alt="Patreon" /></a>
+  <a href="https://buymeacoffee.com/janvibuilds"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-F4A460?style=for-the-badge&labelColor=8B6914&logo=buy-me-a-coffee&logoColor=FFFACD" alt="Buy Me A Coffee" /></a>
+  <a href="https://ko-fi.com/janvibuilds"><img src="https://img.shields.io/badge/Ko--fi-4CAF50?style=for-the-badge&labelColor=2E7D32&logo=ko-fi&logoColor=E8F5E9" alt="Ko-fi" /></a>
+  <a href="https://github.com/sponsors/janvibuilds"><img src="https://img.shields.io/badge/GitHub%20Sponsors-4169E1?style=for-the-badge&labelColor=1E3A8A&logo=github-sponsors&logoColor=E0F2FE" alt="GitHub Sponsors" /></a>
+  <a href="https://www.patreon.com/janvibuilds"><img src="https://img.shields.io/badge/Patreon-9932CC?style=for-the-badge&labelColor=4B0082&logo=patreon&logoColor=F3E5F5" alt="Patreon" /></a>
 </div>
 
